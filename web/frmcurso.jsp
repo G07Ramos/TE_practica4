@@ -9,7 +9,7 @@
     <body>
         <h1><c:if test="${cursos.id==0}">Nuevo</c:if>
             <c:if test="${cursos.id!=0}">Editar</c:if>
-            producto
+            Curso
         </h1>
             <form action="InicioCurso" method="post">
                 <input type="hidden" name="id" value="${cursos.id}"/>
