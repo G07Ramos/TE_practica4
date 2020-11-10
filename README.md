@@ -18,6 +18,7 @@ Capturas Funcionamiento
 
 ![5](https://user-images.githubusercontent.com/71032615/98627998-e89a0900-22eb-11eb-9eb1-07201ac67436.PNG)
 
-![6](https://user-images.githubusercontent.com/71032615/98628004-ec2d9000-22eb-11eb-888c-b0dd4c37d727.PNG)
+![1](https://user-images.githubusercontent.com/71032615/98628209-6fe77c80-22ec-11eb-8c07-a139e5740dbd.PNG)
 
 ![7](https://user-images.githubusercontent.com/71032615/98628013-edf75380-22eb-11eb-87e4-5507ba1b7b4a.PNG)
+
